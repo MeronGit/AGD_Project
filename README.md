@@ -5,7 +5,7 @@
  Elements used in this project:
  1. Multiplatform: Android, Windows - Game is playable on both platforms
  2. Plugins: ItemSpawnerPlugin
- 3. Localization: English and Estonian
+ 3. Localization: English, Estonian, Japanese
  
  Additionally:
  User Interface elements for navigation between levels and instructions
