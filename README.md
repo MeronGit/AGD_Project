@@ -9,3 +9,11 @@
  
  Additionally:
  User Interface elements for navigation between levels and instructions
+ 
+ How to play:
+ On Windows: Use WASD for movement and left mouse button or spacebar to shoot projectiles at cubes. On Android: use left virtual stick and button on right side to shoot.
+ Gain points by collecting yellow balls
+ You die if you crash into your tail (made out of white balls) or any other obstacle.
+ 
+ Tips: In this version it is possible to move between your tail elements if you move fast enough - can help you get through tricky situations. You can vary your speed. 
+ The cube obstacles have health so you can get rid of them by shooting.
