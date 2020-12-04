@@ -31,3 +31,14 @@
  ---
  Song used: Edge of Tomorrow.  Source: http://teknoaxe.com/Link_Code_3.php?q=1242 (Creative Commons Attribution 4.0 International License)
  
+ ---
+ For Game Development Patterns course:
+* Added 5 integration tests (functional tests) which check:
+1. If the pickup ball exists in the level
+2. If pawn is moving
+3. If shooting spawns a bullet
+4. If tail's length equals point count
+5. If shooting the obstacle destroys the obstacle
+
+Usage of patterns: Observers (Event Dispatchers), Inheritance
+ 
