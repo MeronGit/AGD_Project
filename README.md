@@ -40,5 +40,5 @@
 4. If tail's length equals point count
 5. If shooting the obstacle destroys the obstacle
 
-Usage of patterns: Observers (Event Dispatchers), Inheritance
+Usage of patterns: Observers (Event Dispatchers), Subclass Sandbox (Inheritance)
  
