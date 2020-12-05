@@ -41,4 +41,7 @@
 5. If shooting the obstacle destroys the obstacle
 
 Usage of patterns: Observers (Event Dispatchers), Subclass Sandbox (Inheritance)
+
+---
+Building a Windows executable or Android should work normally, no extra steps needed.
  
