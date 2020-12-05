@@ -1,6 +1,7 @@
 # AGD_Project
  Unreal Engine 4 Game demo project for Advanced Game Development (AGD) course.
  Using TwinStickShooter template as initial inspiration I created a snake game where the player can also shoot objects that get in their way.
+ - Explanation video: https://www.youtube.com/watch?v=1A4sbVQ9Sk8
  
  Elements used in this project:
  1. Multiplatform: Android, Windows  (Game is playable on both platforms)
@@ -8,7 +9,7 @@
  3. Localization: English, Estonian, Japanese
  
  Additionally:
- User Interface elements for navigation between levels and instructions
+ User Interface elements for navigation between levels and instructions 
  
  ----
  How to play:
