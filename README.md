@@ -27,13 +27,15 @@
  The cube obstacles have health so you can get rid of them by shooting.
  
  ----
- Notes: To make languages work, this needs to be either compiled to an executable or has to be run as Standalone in editor
+ # Notes: 
+- To make languages work, this needs to be either compiled to an executable or has to be run as Standalone in editor
+- Building a Windows executable or Android should work normally, no extra steps needed.
  
  ---
  Song used: Edge of Tomorrow.  Source: http://teknoaxe.com/Link_Code_3.php?q=1242 (Creative Commons Attribution 4.0 International License)
  
  ---
- For Game Development Patterns course:
+ # For Game Development Patterns course:
 - Explanation video: https://www.youtube.com/watch?v=1A4sbVQ9Sk8
 
 * Added 5 integration tests (functional tests) which check:
@@ -46,5 +48,4 @@
 Usage of patterns: Observers (Event Dispatchers), Subclass Sandbox (Inheritance)
 
 ---
-Building a Windows executable or Android should work normally, no extra steps needed.
  
