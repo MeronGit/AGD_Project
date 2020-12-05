@@ -12,7 +12,7 @@
  User Interface elements for navigation between levels and instructions 
  
  ----
- How to play:
+ # How to play:
  - On Windows: Use WASD for movement and left mouse button or spacebar to shoot projectiles at cubes. 
  - On Android: use left virtual stick and button on right side to shoot.
  
