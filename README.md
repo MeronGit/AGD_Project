@@ -33,6 +33,8 @@
  
  ---
  For Game Development Patterns course:
+ Explanation video: https://www.youtube.com/watch?v=1A4sbVQ9Sk8
+
 * Added 5 integration tests (functional tests) which check:
 1. If the pickup ball exists in the level
 2. If pawn is moving
